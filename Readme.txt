@@ -1,6 +1,5 @@
 # O'Neal Yako
-# Assignment 3
-# CIS*4010*CLOUD COMPUTING
+# CLOUD COMPUTING
 
 --How to Run Program--
 
